@@ -1,0 +1,22 @@
+body{
+    background-color: #30343c;
+    color: aliceblue;
+    font-size: 1.5em;
+    font-family: 'Kanit', sans-serif;;
+}
+.position{
+    position: relative;
+    transform: translateX(-20 px);
+}
+
+.card-img-top{
+    width:100%;
+    height:auto;
+  }
+.top{
+    background-color: #d63384;
+}
+img{
+    width: 3rem;
+    height: auto;
+}
